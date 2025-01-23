@@ -56,7 +56,7 @@
 
   "outbounds": [
     { "tag": "✈️ 起飞", "type": "selector", "outbounds": ["🇭🇰 香港", "🇸🇬 新加坡", "🇰🇷 韩国", "其他地区", "👆🏻 指定", "⚡ 低延迟", "🛩️ 墙内"] },
-    { "tag": "🤖 OpenAI", "type": "selector", "outbounds": ["✈️ 起飞", "⚡ 低延迟", "🇭🇰 香港", "🇸🇬 加坡节点", "🇰🇷 韩国", "👆🏻 指定"] },
+    { "tag": "🤖 OpenAI", "type": "selector", "outbounds": ["✈️ 起飞", "⚡ 低延迟", "🇭🇰 香港", "🇸🇬 新加坡", "🇰🇷 韩国", "👆🏻 指定"] },
     { "tag": "🍀 Google", "type": "selector", "outbounds": ["✈️ 起飞", "⚡ 低延迟", "🇭🇰 香港", "👆🏻 指定"] },
     { "tag": "🪟 Microsoft", "type": "selector", "outbounds": ["✈️ 起飞", "⚡ 低延迟", "🇭🇰 香港", "🛩️ 墙内"] },
     { "tag": "🎥 Netflix", "type": "selector", "outbounds": ["✈️ 起飞", "⚡ 低延迟", "🇭🇰 香港", "👆🏻 指定"] },
