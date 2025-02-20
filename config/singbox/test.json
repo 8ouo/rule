@@ -53,7 +53,7 @@
   { "tag": "👆🏻 指定", "type": "selector", "outbounds": ["{all}"]},
   { "tag": "🇭🇰 香港", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "include", "keywords": ["🇭🇰|HK|hk|香港|港|hongkong|HongKong"] }] },
   { "tag": "🇸🇬 狮城", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "include", "keywords": ["🇸🇬|SG|sg|singapore|新加坡|狮城|Singapore"] }] },
-  { "tag": "🇺🇳 其他", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "include", "keywords": ["AU|DE|KR|JP|US"] }] },
+  { "tag": "🇺🇳 其他", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "include", "keywords": ["AU|DE|KR|JP|US|euserv"] }] },
   { "tag": "GLOBAL", "type": "selector", "outbounds": ["{all}"]},
   { "tag": "🛩️ 墙内", "type": "direct" },
   { "tag": "dns-out", "type": "dns" }
